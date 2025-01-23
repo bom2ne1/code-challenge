@@ -1,0 +1,1 @@
+describe('components/Header', () => {});
